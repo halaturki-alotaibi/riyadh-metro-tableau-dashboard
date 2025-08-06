@@ -17,4 +17,4 @@ Open data provided by the
 
 ---
 
-> 💡 Feel free to clone, explore, and suggest improvements!
+> 💡 Feel free to explore, and suggest improvements!
